@@ -1,0 +1,18 @@
+	SCHEDULE.
+Codigo da agenda: 1234.
+Total de contatos:3.
+
+Nome: Fernando
+Idade: 23
+Telefone: 88998102411
+Email: fernando@gmail.com
+
+Nome: Jose
+Idade: 30
+Telefone: 88999999999
+Email: jose@gmail.com
+
+Nome: Maria
+Idade: 30
+Telefone: 88999999999
+Email: maria@hotmail.com
