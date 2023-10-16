@@ -1,6 +1,9 @@
 # Sistema De Agendas
 Projeto 06 - Sistema de agendas.
-Este é um sistema de agenda simples usando listas, que permite ao usuário realizar operações com contatos, como adicionar, remover, listar, editar e buscar informações de contatos. O sistema também oferece funcionalidades para salvar e carregar os dados da agenda em um arquivo de texto. Esta documentação fornece uma visão geral das TADs (Tipos Abstratos de Dados) e como usar o sistema.
+## Problemática
+Projete um sistema na Linguagem C para gerenciamento de contatos. Seu sistema precisará manipular pessoas/contatos.
+
+Este é um sistema de agenda simples usando lista ordenada, que permite ao usuário realizar operações com contatos, como adicionar, remover, listar, editar e buscar informações de contatos. O sistema também oferece funcionalidades para salvar e carregar os dados da agenda em um arquivo de texto. Esta documentação fornece uma visão geral das TADs (Tipos Abstratos de Dados) e como usar o sistema.
 
 ## agenda.h
 É a TAD que possui duas Struct, que são Agenda e Contato, como tambám os protótipos de todas as funções que tem no nosso progama. 
