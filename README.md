@@ -62,12 +62,12 @@ Busca um contato na agenda com base no nome fornecido como argumento. Retorna o 
 #### 7. listarContatoBusca(const Contato *contato)
 Lista as informações de um único contato, incluindo nome, idade, número de telefone e endereço de e-mail.
 
-##### 8. editarContato(Agenda *agenda, const char nomeBusca[])
+#### 8. editarContato(Agenda *agenda, const char nomeBusca[])
 Permite editar as informações de um contato existente na agenda com base no nome do contato fornecido como argumento. Atualiza o arquivo após a edição.
 
 ## main.c
 A TAD main.c é a funçaõ principal do nosso programa, responsavel por chamar todas as funções e executar as manipulações no arquivo de texto.
-O limite máximo de contatos é de 100, conforme especificado na alocação de memória na main.c, pidem o limiti ser alterado dentro do codigo.
+O limite máximo de contatos é de 100, conforme especificado na alocação de memória na main.c, o limite poder ser alterado dentro do codigo.
 
 # Uso do Sistema
 1. Compile os arquivos "agenda.h", "agenda.c" e "main.c" respectivamente, usando um compilador C.
