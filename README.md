@@ -72,5 +72,5 @@ O limite máximo de contatos é de 100, conforme especificado na alocação de m
 # Uso do Sistema
 1. Compile os arquivos "agenda.h", "agenda.c" e "main.c" respectivamente, usando um compilador C.
 2. Execute o progama resultante.
-3. Use o menu iunterativopara realizar as operações desejadas.
+3. Use o menu interativo para realizar as operações desejadas.
 4. Os dados da agenda serão salvos automaticamente no arquivo "agenda.txt" e carregados na proxima inicialização.
