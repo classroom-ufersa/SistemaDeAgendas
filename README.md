@@ -18,10 +18,10 @@ typedef struct agenda
 } Agenda;
 ````
 
--nomeAgenda: Uma string que representa o nome da agenda.
--codigo: Um número inteiro que identifica a agenda.
--numContatos: Um número inteiro que indica a quantidade de contatos na agenda.
--contatos: Um ponteiro para uma matriz de Contato que contém os detalhes dos contatos.
+- nomeAgenda: Uma string que representa o nome da agenda.
+- codigo: Um número inteiro que identifica a agenda.
+- numContatos: Um número inteiro que indica a quantidade de contatos na agenda.
+- contatos: Um ponteiro para uma matriz de Contato que contém os detalhes dos contatos.
 
 ````
 typedef struct contato
@@ -33,10 +33,10 @@ typedef struct contato
 } Contato;
 ````
 
--nomeCtt: Uma string que representa o nome do contato.
--idade: Um número inteiro que representa a idade do contato.
--telefone: Uma string que representa o número de telefone do contato.
--email: Uma string que representa o endereço de e-mail do contato.
+- nomeCtt: Uma string que representa o nome do contato.
+- idade: Um número inteiro que representa a idade do contato.
+- telefone: Uma string que representa o número de telefone do contato.
+- email: Uma string que representa o endereço de e-mail do contato.
 
 ## agenda.c
 É a TAD que possui todas as funções e o que ela vai executar dentro do nosso progama.
